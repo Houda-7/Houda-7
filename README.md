@@ -23,7 +23,9 @@
 
 ### Projets
 
-* **[Sécurisation du réseau RINAM - ONDA](Lien_vers_ton_repo_ONDA)** : Conception d'une maquette réseau isolée avec segmentation L2 (Zero-Trust) et implémentation de règles de filtrage (Firewalling stateless).
+* **[Sécurisation du réseau RINAM - ONDA](RINAM-network-security-onda
+Public
+)** : Conception d'une maquette réseau isolée avec segmentation L2 (Zero-Trust) et implémentation de règles de filtrage (Firewalling stateless).
 
 ### 📫 Contact
 
