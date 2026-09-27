@@ -23,8 +23,7 @@
 
 ### Projets
 
-* **[Sécurisation du réseau RINAM - ONDA](RINAM-network-security-onda
-Public
+* **[Sécurisation du réseau RINAM - ONDA](https://github.com/Houda-7/RINAM-network-security-onda.git
 )** : Conception d'une maquette réseau isolée avec segmentation L2 (Zero-Trust) et implémentation de règles de filtrage (Firewalling stateless).
 
 ### 📫 Contact
