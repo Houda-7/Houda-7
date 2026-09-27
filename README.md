@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Houda Oukdidir
+# Bonjour, je suis Houda Oukdidir
 
 Étudiante en **Réseaux et Télécommunications** à l'EST Nador. Je construis activement mes compétences techniques en infrastructure réseau, cybersécurité et programmation à travers des projets pratiques et des laboratoires virtuels.
 
