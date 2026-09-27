@@ -2,6 +2,7 @@
 
 Étudiante en **Réseaux et Télécommunications** à l'EST Nador. Je construis activement mes compétences techniques en infrastructure réseau, cybersécurité et programmation à travers des projets pratiques et des laboratoires virtuels.
 
+
 ### Stack & Compétences Techniques
 
 **Réseaux & Sécurité**  
@@ -21,12 +22,20 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
+---
+
 ### Projets
 
-* **[Sécurisation du réseau RINAM - ONDA](https://github.com/Houda-7/RINAM-network-security-onda.git
-)** : Conception d'une maquette réseau isolée avec segmentation L2 (Zero-Trust) et implémentation de règles de filtrage (Firewalling stateless).
+**[Sécurisation du réseau RINAM — ONDA](https://github.com/Houda-7/RINAM-network-security-onda)**  
+Conception d'une maquette réseau isolée pour la sécurisation des flux critiques aéroportuaires (Télémétrie Radar, VCS), dans le cadre d'un stage d'initiation à l'Aéroport Chérif El Idrissi d'Al Hoceima (ONDA).
+- Segmentation réseau en 3 zones (Zero-Trust) via VLANs 802.1Q et routage inter-VLAN
+- Implémentation d'un firewalling stateless avec ACLs étendues (règle Default Deny)
+- Durcissement de l'accès administratif via SSHv2 (RSA 1024-bit) et désactivation de Telnet
+- Simulation complète sous Cisco Packet Tracer avec PoC documenté
 
-### 📫 Contact
+---
+
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houda-oukdidir-77020a388)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oukdidirhouda946@gmail.com)
