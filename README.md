@@ -27,7 +27,7 @@
 ### Projets
 
 **[Sécurisation du réseau RINAM — ONDA](https://github.com/Houda-7/RINAM-network-security-onda)**  
-Conception d'une maquette réseau isolée pour la sécurisation des flux critiques aéroportuaires (Télémétrie Radar, VCS), dans le cadre d'un stage d'initiation à l'Aéroport Chérif El Idrissi d'Al Hoceima (ONDA).
+Conception d'une maquette réseau isolée pour la sécurisation des flux critiques aéroportuaires (Télémétrie Radar, VCS).
 - Segmentation réseau en 3 zones (Zero-Trust) via VLANs 802.1Q et routage inter-VLAN
 - Implémentation d'un firewalling stateless avec ACLs étendues (règle Default Deny)
 - Durcissement de l'accès administratif via SSHv2 (RSA 1024-bit) et désactivation de Telnet
